@@ -1,2 +1,2 @@
-# Wheat-Kniwledge-Learning
+# Wheat-Knowledge-Learning
 Nothing, self-learning
